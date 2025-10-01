@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "965143621111",
+    "project_id": "bambutestandroid",
+    "storage_bucket": "bambutestandroid.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965143621111:android:9aa203a2f126fa40ca92f2",
+        "android_client_info": {
+          "package_name": "com.f8fit.bambutestandroid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAG99-Y4QZhCqgDnRIuOx0zzB4tbX2JFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

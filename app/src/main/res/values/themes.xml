@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.BambuTestAndroid" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Personaliza colores, tipografía, etc -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorSecondary">@color/teal_200</item>
+    </style>
+
+    <!-- En res/values/styles.xml -->
+    <style name="RoundedImageView" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item> <!-- 50% para hacer círculo -->
+    </style>
+
+
+</resources>
