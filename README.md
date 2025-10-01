@@ -6,23 +6,7 @@ BambuShop es una aplicación de ejemplo tipo e-commerce desarrollada en **Kotlin
 
 ## 📂 Estructura del Proyecto
 
-app/
-├─ src/
-│ ├─ main/
-│ │ ├─ java/com/f8fit/bambutestandroid/
-│ │ │ ├─ data/ # Repositorios, DataStore, API, DTO, Dao
-│ │ │ ├─ Navigation # AppNavigation, NavRoutes
-│ │ │ ├─ presentation/ # Pantallas (Compose + Activities)
-│ │ │ │ ├─ homeModule/
-│ │ │ │ ├─ loginModule/
-│ │ │ │ ├─ registerModule/
-│ │ │ │ ├─ profileModule/
-│ │ │ │ └─ cartModule/
-│ │ │ └─ utils/ # Extensiones, constantes, helpers
-│ │ └─ res/ # Layouts, Drawables, Colors, Themes
-├─ build.gradle.kts
-└─ README.md
-
+![alt text](image-7.png)
 
 ---
 
